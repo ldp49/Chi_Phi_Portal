@@ -1,0 +1,8 @@
+Thu, 19 Nov 2015 16:31:49 -0500
+README.rdoc	Thu, 19 Nov 2015 15:22:52 -0500
+app/controllers/application_controller.rb	Thu, 19 Nov 2015 15:22:52 -0500
+app/controllers/posts_controller.rb	Thu, 19 Nov 2015 15:33:17 -0500
+app/helpers/application_helper.rb	Thu, 19 Nov 2015 15:22:52 -0500
+app/helpers/posts_helper.rb	Thu, 19 Nov 2015 15:33:18 -0500
+app/models/brother.rb	Thu, 19 Nov 2015 15:31:31 -0500
+app/models/post.rb	Thu, 19 Nov 2015 15:33:17 -0500
